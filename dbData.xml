@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>DB data - reddit crawler</comment>
+<entry key="dbuser">RedditCrawler</entry>
+<entry key="dbpass">q1w2e3</entry>
+</properties>

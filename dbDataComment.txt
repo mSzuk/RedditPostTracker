@@ -1,0 +1,7 @@
+user powinien posiadaæ read i write permissions
+db_datareader
+db_datawriter
+
+Dodatkowo powininen posiadaæ nadane przez baze danych:
+Alter any schema
+Create table

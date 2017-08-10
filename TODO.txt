@@ -1,0 +1,6 @@
+- Add feature: Process/Status bar at bottom of application for error/information printing
+- Add feature: Multiple list items selection and interaction with
+- Add configuration options:
+	* Max. number of posts to be displayed on list
+	* Time delay between post scraping 
+- Rewrite AppConfiguration class to use XML parser instead of Properties class 

@@ -1,7 +1,8 @@
-user powinien posiadaæ read i write permissions
+db user needs read and write permissions, for example 
+given roles of:
 db_datareader
-db_datawriter
+db_datawriter 
 
-Dodatkowo powininen posiadaæ nadane przez baze danych:
+Additionaly needs following permission from database:
 Alter any schema
 Create table

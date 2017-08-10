@@ -2,9 +2,7 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment>ConfigurationFile - reddit crawler</comment>
-<entry key="subreddit0">manga</entry>
+<entry key="subreddit0">pathofexile</entry>
 <entry key="dbinstance">local</entry>
 <entry key="dbname">POSTS</entry>
-<entry key="subreddit2">anime</entry>
-<entry key="subreddit1">pathofexile</entry>
 </properties>
